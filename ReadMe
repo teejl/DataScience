@@ -11,4 +11,10 @@ I looked more into Data Science today, and found out more of what a data scienti
 
 Matlab
 
-So today, I have installed Matlab. It turned out to take a little more time then expected. However, after relogging in and out on my matlab account it seem to connect to the installer. Looks like it is time to learn a new platform.  
+So today, I have installed Matlab. It turned out to take a little more time then expected. However, after relogging in and out on my matlab account it seem to connect to the installer. Looks like it is time to learn a new platform. 
+
+Vectors
+
+The journey of vectors has begun! The fascinating thing about vectors is that they can be placed in any location, and it is the direction and in what speed it is traveling. Most people denote column vectors in many deminsions. I can't help but to think these are like stats on a video game. For example, if you had a column vector with four entries it can be equivalent to the characters attack, dexterity, speed, defence. And based on these stats they can be increased with gear or leveling up. Maybe even temporarily by spells! Nonetheless, vectors seem like it is good at collecting information for programming. I am excited to see where this is headed in data science!
+
+ 
