@@ -1,0 +1,26 @@
+Hello World
+
+So I have begun my journey into Data Science. I have been reading many articles online, and many of them mention making a Data Science Portfolio. Yes, it is that important that I capitalized it. So important and fascinating, that I have decided to see what it is all about. I am starting with a clean slate, as if I have not learned anything before. Heads up, I have my B.S. in mathematics from UT Austin. Time to change to world :D.
+
+
+The Theory of Traffic
+
+The most efficient way to drive is to never press the brake. Everytime the brake is press it is just integrating the waste of fuel. This kills our bank account and enviroment that surrounds us. That is to say that traffic must never slow down. I am mainly referring about on the highway, a road with no stop lights. It seems that most of the stopping comes from the reduction of lanes on the highway, however if everyone had the patience to drive a little slower we could all still be moving and minimize our brake time.
+
+I looked more into Data Science today, and found out more of what a data scientist does. It seems a prime example of a data scientist is the person who makes the recommended "becuase you liked this you will like this" of sort. For example, if you are on an online website buying skinny jeans, there might be a side tab referring you to other types of skinny jeans. I'm sure there are amounts of data one can use to find the algorithm that works, but it is the algorithm that makes the data scientist powerful. It is the intellectual curiosity that fuels his drive. All of which fuel my mind. A prime example is the theory of traffic. Perhaps one day I'll be able to find a simple algorithm that can solve traffic, or maybe just minimize our brake time. Nevertheless, I will be doing O.S.S. to become closer to my goal to find these algorithms.
+
+Matlab
+
+So today, I have installed Matlab. It turned out to take a little more time then expected. However, after relogging in and out on my matlab account it seem to connect to the installer. Looks like it is time to learn a new platform. 
+
+Vectors
+
+The journey of vectors has begun! The fascinating thing about vectors is that they can be placed in any location, and it is the direction and in what speed it is traveling. Most people denote column vectors in many deminsions. I can't help but to think these are like stats on a video game. For example, if you had a column vector with four entries it can be equivalent to the characters attack, dexterity, speed, defence. And based on these stats they can be increased with gear or leveling up. Maybe even temporarily by spells! Nonetheless, vectors seem like it is good at collecting information for programming. I am excited to see where this is headed in data science!
+
+A Mini Video Game
+
+Thinking more on the vector topic, it is interesting to see what stats one would put in a video game. I think if we were to have a simple 2 deminsional video game I would go with a base of 5 stats. We can call the vector the character the stats belong to. For example, if we had a character named Ivy, we can let Ivy_Stats be a vector. We could also let the elements represent Ivy_Stats = [Health, Attack, Stregnth, Defence, Speed]. We can also note another variable, that is an integer, Ivy_Level = 1. As the character Ivy grows experience in the game Ivy can level up to level 2 and boom, Ivy's level will increase. We can chose Ivy's stats to increase with according to an "axpy" operation. However this is where things get interesting becuase there are beyond a million different ways to increase one's stats. Nevertheless, it is a starting point when trying to calculate damage, fighting, and anything else that might be affected by stats. We can also bring in gear into the picture. Gear will certainly increase the stats. 
+
+Big Time, Big Data
+
+So I have gathered a lot more information about my independent learning. It seems there are a lot of great resources out there. I am currently using OSS, however there are many others like Udacity and Data Camp. The end goal is to be able to compete on Kaggle. Listing them in order of pricing I will be doing OSS, Data Camp, and possibly Udacity. What I really like about Udacity is that is serious stuff. But it requires a serious price. Something I can take on when I have more free time. Nonetheless, I am still in it to win it. I will need to start by building my own data base and functions for my database. I will most likely end up chosing something like fantasy football, as it is worth some value to me.  
