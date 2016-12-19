@@ -36,3 +36,12 @@ So the journey continues. I find the Coursera program great since it teaches fro
 Another One Bites the Dust
 
 I have completed week 3. We have learned more about types of analysis and big data. Big data is constantly mentioned, and I would find it very interesting to work with a huge data base that uses parallel computing. I know most data sets don't need nearly this much data, but I would find the techniques used fascinating. This is discrete mathematics mixed with optimization at its finest.
+
+Maintaining a Database
+
+Working as a Data Analyst a few things have become valuable to me for a database. Some of these things are Accuracy, Efficiency, and Purpose. The accuracy cannot be acheived entirely without efficiency and without no purpose there is no need for the data. Efficiency comes down to pulling necessary information and getting rid of all the bs. It sounds easier than done alot of the time because of the number of people involved. Questions like what is actually needed, who should have admin access, and how should we format the information are questions that need to be answered and effectively communicated.
+
+Running Tests as Matrices
+
+So I have been verifying my accuracy by running tests on my data to make sure it passes certain flags. I realized that these flags can be matrices and each component, or in my case a license of information, contains a certain set of flags that can be defined as a matrix. Yes so there are only a finite number of elements, and we can catergorize each element as so. Then we can perform actoins on these sets and instead of just working with a single license we can work with many of the same type of license. Of course if there was a mistake along the way there will be much to pay, but with higher level education and understanding I think it is an efficiently flawless way to work.
+
